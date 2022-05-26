@@ -1,0 +1,1 @@
+terminal-one: static-server -p 1337 &
